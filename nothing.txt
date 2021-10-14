@@ -1,0 +1,8 @@
+"nothing"
+{
+	"base"		"base"
+	"title"		"The Void"
+	"author"	"nforce"
+	"category"	"other"
+	"menusystem"	"1"
+}
